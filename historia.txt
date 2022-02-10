@@ -3,4 +3,4 @@ Esta es la historia de Alberto
 Alberto tiene 25 años y nacio en Mexico, 
 pero ahora esta en GDL
 
-Hoy hablaremos de como aprendera Git
+Hoy hablaremos de como esto se volvio un curso de html
